@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="referrer" content="no-referrer">
+    <title>致顾世萍的一封信</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            background-color: #fcfcfc;
+            font-family: "PingFang SC", "Microsoft YaHei", sans-serif;
+            padding: 20px 0;
+            -webkit-overflow-scrolling: touch;
+        }
+        .container {
+            width: 92%;
+            max-width: 500px;
+            background-color: #fff;
+            margin: 0 auto;
+            padding: 30px 25px;
+            border-radius: 16px;
+            box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+        }
+        .content {
+            color: #333;
+            line-height: 2.2;
+            font-size: 17px;
+            margin-bottom: 30px;
+            text-indent: 2em;
+        }
+        .signature {
+            text-align: right;
+            color: #666;
+            font-size: 15px;
+            margin-top: 40px;
+        }
+        *:active {
+            -webkit-tap-highlight-color: transparent;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="content">
+            亲爱的顾世萍<br><br>
+            闻尽好花千万树，愿君记取此一支。<br><br>
+            故事开始说不上浪漫，第一次见你，就觉得这个女孩子很漂亮，但是漂亮和我没有关系，也只是一个过路人，如果不是你加的那个好友可能没有后面的故事，从每天互相吐槽自己学车的囧事，到你和我讲你和朋友吃饭，再到每天的“早安”“晚安”，慢慢的和你聊天融入了我的生活，上班我会想生活，上班我会想会啥不回我信息，白天睡觉醒来，我会想为啥你在干嘛，我怕我们没有话题，关系就断了，后来明白，陌生人才会一直有话题，两个人认识久了才是开始真正的了解对方。用爱情公寓的话说“人与人之间总会有分歧，谈恋爱就是求同存异的过程，不求同走不到一起，不存异走不下去”。谢谢你不吝啬你的夸奖，谢谢你句句有回应，谢谢你出现在我的生命里<br><br>
+            今天你问我我在啥时候喜欢上你的，我也不知道，不知道是哪儿一刻，是我们互相诉苦，有一种心心相映相见恨晚的感觉，还是看到你一个小女生为了10块钱跑东跑西的服务别人的辛苦，那种心酸，心疼的感觉，也可能是慢慢熟悉了，对你有了感情，网上的人说，水瓶座对喜欢的人是看感觉的，感觉不准啊，其实也看颜值吧，毕竟你小子也有姿色，我对你的喜欢不是一时兴起，而是内心深处无数次的心动，想对这个辛苦的女孩子一个拥抱，想关心你，想惦记你，想懂你，不是因为我想要，而且觉得你值得，喜欢可以简简单单但是不能随随便便，你问我时我会犹豫，因为我喜欢你，但又怕耽误你，又怕不合适的，看别人谈恋爱，每段感情开始都是合适的，分开的理由也都是我们不合适。但是不试咋知道，不试咋知道土豆和番茄，可以以薯条和番茄酱的搭配在一起。<br><br>
+            有些话你让我在你面前说，不知道是不是胆小，说不出口，但既然你给我一次写信的机会，我想对你说“这次我的选择是逃避，没有正面的对你表白，会让你很失落，但是以后的我们会面对各种的问题与困难，我将不会站在你的身后，而是在你面前，或是在你旁边，让你在我身后，我总告诉你我做噩梦怕死亡，怕醒不过来，现在想想，我是没有目标，每天眼神是空洞的，但是现在我有了目标，有了终点。我会认真，会隆重，会给你很多拥抱，给你很多偏爱”。语文老师教过我，说"我们如果遇到喜欢的女孩子，就要给她你的全部的爱，让她成为你的例外，你的首选，至少在我这里你是"现在谢谢语文老师，让我找到了这个可以让我送出偏爱的女孩，我不想在给你说承诺你什么，我想告诉你“陪伴胜过一切承诺”<br><br>
+            临颖依依，不尽欲白
+        </div>
+        <div class="signature">
+            岳国宇
+        </div>
+    </div>
+</body>
+</html>
